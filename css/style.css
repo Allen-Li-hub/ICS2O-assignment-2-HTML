@@ -2,12 +2,12 @@
 * This file contains the CSS for index.html
 */
 
-body{
-  background:#54c7e3;
-  text-align:center;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+body {
+  background: #54c7e3;
+  text-align: center;
+  font-family: "Yanone Kaffeesatz", sans-serif;
 }
- 
+
 img {
   width: 50%;
 }

@@ -13,8 +13,9 @@ function calculate() {
   const sidec = parseInt(document.getElementById("sidec-of-triangle").value)
 
   // process
-  const perimeter = (sidea + sideb + sidec)
+  const perimeter = sidea + sideb + sidec
 
   // output
-  document.getElementById("perimeter").innerHTML = "Perimeter is: " + perimeter + "cm"
+  document.getElementById("perimeter").innerHTML =
+    "Perimeter is: " + perimeter + "cm"
 }
